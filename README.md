@@ -2,3 +2,4 @@
 
 # Jonfield's Korone Apks
 ## coming today yay
+# join for announcements, updates etc. https://discord.gg/Aqwwpd2BH2
