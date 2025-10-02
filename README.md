@@ -9,4 +9,4 @@
 
  # NOTE
 
-* DON'T sign in the app, sign in [here](https://www.pekora.zip/auth/accountlogin)
+* DON'T sign in the app, sign in [here](https://www.pekora.zip/auth/application)
