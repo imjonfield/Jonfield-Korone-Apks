@@ -16,11 +16,9 @@
 
 ## Recommended VPNS
 
-* 1.1.1.1
-https://1.1.1.1
+* [1.1.1.1](https://1.1.1.1)
 
-* Proton VPN
-https://protonvpn.com/
+* [Proton VPN](https://protonvpn.com)
 
 # join for announcements, updates etc.
 ### https://discord.gg/Aqwwpd2BH2
