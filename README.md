@@ -28,9 +28,9 @@
 
 ## Recommended VPNS
 
-* [1.1.1.1](https://1.1.1.1)
+* [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
 
-* [Proton VPN](https://protonvpn.com)
+* [Proton VPN](https://play.google.com/store/apps/details?id=ch.protonvpn.android)
 
 # join for announcements, updates etc.
 ### https://discord.gg/Aqwwpd2BH2
