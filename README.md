@@ -14,6 +14,18 @@
 
 * If you get a connection error when launching the app, use a VPN.
 
+* If you can't install the 2017 client on your phone, use a VM (Virtual Machine)
+
+## Recommended VMs
+
+* [Virtual Master](https://play.google.com/store/apps/details?id=com.clone.android.dual.space)
+
+* [Virtual Android](https://play.google.com/store/apps/details?id=com.pspace.vandroid)
+
+* [VMOS](https://play.google.com/store/apps/details?id=com.vmos.google)
+
+* [VphoneOS](https://play.google.com/store/apps/details?id=com.yoyo.snake.rush)
+
 ## Recommended VPNS
 
 * [1.1.1.1](https://1.1.1.1)
