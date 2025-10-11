@@ -24,8 +24,6 @@
 
 * [VMOS](https://play.google.com/store/apps/details?id=com.vmos.google)
 
-* [VphoneOS](https://play.google.com/store/apps/details?id=com.yoyo.snake.rush)
-
 ## Recommended VPNS
 
 * [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
