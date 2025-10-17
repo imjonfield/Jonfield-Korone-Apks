@@ -10,7 +10,7 @@
 
 * DON'T sign in the app, sign in [here](https://www.pekora.zip/auth/application).
 
-* Use the format "username|2facode" to login if you have 2fa enabled.
+* Use the format "username|2facode" to login if you have 2fa enabled. (ONLY FOR 2020 & 2021)
 
 * If you get a connection error when launching the app, use a VPN.
 
