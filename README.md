@@ -6,6 +6,23 @@
  ## NullPointerExceptionBruh's apks
  https://github.com/NullPointerExceptionBruh/Pekora-Unofficial-Clients
 
+# Images
+ 
+## <p align="center">2017</p>
+
+<img width="1600" height="720" alt="Screenshot_20251020-092951" src="https://github.com/user-attachments/assets/59aab5da-0baf-4efc-9937-21c3fe9ebd97" />
+
+
+## <p align="center">2020</p>
+
+<img width="1600" height="720" alt="Screenshot_20251020-093023" src="https://github.com/user-attachments/assets/0514169e-d4f9-46c3-b987-6afd65058def" />
+
+
+## <p align="center">2021</p>
+
+<img width="1600" height="720" alt="Screenshot_20251024-162639" src="https://github.com/user-attachments/assets/43bc42f9-9e0b-4f8c-a144-299d476ffb41" />
+
+
  # NOTE
 
 * DON'T sign in the app, sign in [here](https://www.pekora.zip/auth/application).
