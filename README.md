@@ -9,7 +9,7 @@
 
 * DON'T sign in the app, sign in [here](https://www.pekora.zip/auth/application) [use referral code jonfield]
 
-Video Tutorial (Credit to [@dontbazaras](https://youtube.com/@dontbazaras?si=gsc4-JALL6ffaA8e)
+Video Tutorial (Credit to [@dontbazaras](https://youtube.com/@dontbazaras?si=gsc4-JALL6ffaA8e))
 
 https://github.com/user-attachments/assets/8f937e26-7dda-4b3a-9b14-43fa3e97fb78
 
