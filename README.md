@@ -9,6 +9,10 @@
 
 * DON'T sign in the app, sign in [here](https://www.pekora.zip/auth/application) [use referral code jonfield]
 
+Video Tutorial (Credit to [@dontbazaras](https://youtube.com/@dontbazaras?si=gsc4-JALL6ffaA8e)
+
+https://github.com/user-attachments/assets/8f937e26-7dda-4b3a-9b14-43fa3e97fb78
+
 * Use the format "username|2facode" to login if you have 2fa enabled. (ONLY FOR 2020 & 2021)
 
 * If you get a connection error when launching the app, use a VPN.
